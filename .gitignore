@@ -1,0 +1,17 @@
+.vs/
+Release/
+Debug/
+x64/
+x86/
+*.obj
+*.pdb
+*.ipdb
+*.iobj
+*.tlog
+*.log
+*.lastbuildstate
+*.recipe
+*.ilk
+*.exe
+*.dll
+*.lib
